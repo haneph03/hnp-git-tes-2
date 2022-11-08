@@ -10,8 +10,8 @@
     <h3>Hello world!</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi voluptas voluptates ut quam numquam non aliquam in harum? Architecto blanditiis nisi soluta ullam ipsa quidem exercitationem doloribus excepturi beatae quaerat!</p>
     <ul>
-        <li>asd</li>
-        <li>dasd</li>
+        <li>satu</li>
+        <li>dua</li>
     </ul>
 </body>
 </html>
